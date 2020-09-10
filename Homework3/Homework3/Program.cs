@@ -15,7 +15,7 @@ namespace Homework3
             double b = 0;
             double c = 0;
 
-            Console.WriteLine("Find perimetr and sqare of a triangle");
+            Console.WriteLine("Find perimeter and sqare of a triangle");
 
             Console.WriteLine("Enter first side of the triangle: ");
             Double.TryParse(Console.ReadLine(), out a);
@@ -30,7 +30,7 @@ namespace Homework3
                 double perimetr = triangle.Perimeter();
                 double square = triangle.Square();
 
-                Console.WriteLine($"Perimetr of the triangle is {perimetr}");
+                Console.WriteLine($"Perimeter of the triangle is {perimetr}");
                 Console.WriteLine($"Square of the triangle is {square}");
             }
             catch(Exception e)

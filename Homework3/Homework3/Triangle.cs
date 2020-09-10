@@ -40,13 +40,23 @@ namespace Homework3
                 throw new Exception("Triangle cannot exist");
             }           
         }
-        
+        /// <summary>
+        /// Find the area of a triangle by Heron's formula
+        /// </summary>
+        /// <returns>
+        /// Double variable with triangle square value
+        /// </returns>
         public double Square()
         {
             double semiperimetr = Perimeter()/2;
             return Sqrt(semiperimetr * (semiperimetr - _a) * (semiperimetr - _b) * (semiperimetr - _c));
         }
-
+        /// <summary>
+        /// Find the perimeter of a triangle by summation sides
+        /// </summary>
+        /// <returns>
+        /// Double variable with triangle perimeter value
+        /// </returns>
         public double Perimeter()
         {
             return _a + _b + _c;
