@@ -1,0 +1,17 @@
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\RootCalculator.Tests.dll
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\RootCalculator.Tests.pdb
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Homework_1.exe
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Homework_1.pdb
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Homework_1.exe.config
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\obj\Debug\HomeWork1Tests.csprojAssemblyReference.cache
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\obj\Debug\HomeWork1Tests.csproj.CoreCompileInputs.cache
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\obj\Debug\HomeWork1Tests.csproj.CopyComplete
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\obj\Debug\RootCalculator.Tests.dll
+C:\Users\sherl\Desktop\EPAM\Homework_1\RootCalculator.Tests\obj\Debug\RootCalculator.Tests.pdb

@@ -1,0 +1,17 @@
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\HomeWork2Tests.dll
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\HomeWork2Tests.pdb
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Homework2.exe
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Homework2.pdb
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Homework2.exe.config
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\obj\Debug\HomeWork2Tests.csprojAssemblyReference.cache
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\obj\Debug\HomeWork2Tests.csproj.CoreCompileInputs.cache
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\obj\Debug\HomeWork2Tests.csproj.CopyComplete
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\obj\Debug\HomeWork2Tests.dll
+C:\Users\sherl\source\repos\Homework2\HomeWork2Tests\obj\Debug\HomeWork2Tests.pdb
